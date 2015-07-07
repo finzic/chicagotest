@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/aleppo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/boss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/boss_db" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/bson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/cowboy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/cowlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/ddb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/dynamic_compile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/epgsql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/erlando" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/erlmc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/erlydtl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/ets_cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/eunit_formatters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/gen_server2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/gen_smtp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/goldrush" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/ibrowse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/iso8601" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/jaderl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/jsx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/lager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/lfe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/meck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/medici" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/merl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/mimetypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/mochicow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/mochiweb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/mongodb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/pmod_transform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/poolboy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/proper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/protobuffs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/ranch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/redo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/riak_pb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/riakc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/simple_bridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/tiny_pq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/tinymq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/uuid" vcs="Git" />
+  </component>
+</project>

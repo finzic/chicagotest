@@ -1,0 +1,89 @@
+2015-07-08 00:23:12.735 [info] <0.7.0> Application lager started on node nonode@nohost
+2015-07-08 00:23:12.786 [info] <0.2.0>@boss_load:load_all_modules:57 Loading application chicagotest
+2015-07-08 00:23:12.819 [info] <0.2.0>@boss_load:compile_view_dir_erlydtl:308 Compile Modules "src/view/lib/tag_html"  chicagotest_view_lib_tags
+2015-07-08 01:05:38.091 [info] <0.7.0> Application lager started on node chicagotest@legolas
+2015-07-08 01:05:38.099 [info] <0.7.0> Application crypto started on node chicagotest@legolas
+2015-07-08 01:05:38.132 [info] <0.7.0> Application mimetypes started on node chicagotest@legolas
+2015-07-08 01:05:38.170 [info] <0.94.0> Starting Boss in development mode....
+
+2015-07-08 01:05:38.201 [notice] <0.61.0>@lager_app:132 Deprecated lager_file_backend config detected, please consider updating it
+2015-07-08 01:05:38.206 [error] <0.69.0>@lager_handler_watcher:98 Lager fatally failed to install handler lager_console_backend into lager_event, NOT retrying: old_shell
+2015-07-08 01:05:38.206 [warning] <0.63.0>@lager_console_backend:61 Lager's console backend is incompatible with the 'old' shell, not enabling it
+2015-07-08 01:05:38.221 [info] <0.94.0> Starting master services on chicagotest@legolas
+
+2015-07-08 01:05:38.256 [info] <0.7.0> Application tinymq started on node chicagotest@legolas
+2015-07-08 01:05:38.311 [info] <0.94.0> SSL:[]
+
+2015-07-08 01:05:38.314 [info] <0.94.0> Starting cowboy... on chicagotest@legolas
+
+2015-07-08 01:05:38.318 [info] <0.7.0> Application cowlib started on node chicagotest@legolas
+2015-07-08 01:05:38.335 [info] <0.7.0> Application ranch started on node chicagotest@legolas
+2015-07-08 01:05:38.345 [info] <0.7.0> Application cowboy started on node chicagotest@legolas
+2015-07-08 01:05:38.345 [info] <0.94.0> Starting http listener... on 0.0.0.0:8001 
+
+2015-07-08 01:05:38.412 [info] <0.94.0>@boss_load:load_all_modules:57 Loading application chicagotest
+2015-07-08 01:05:38.427 [info] <0.94.0>@boss_load:compile_view_dir_erlydtl:308 Compile Modules "src/view/lib/tag_html"  chicagotest_view_lib_tags
+2015-07-08 01:07:01.401 [info] <0.7.0> Application lager started on node chicagotest@legolas
+2015-07-08 01:07:01.415 [info] <0.7.0> Application crypto started on node chicagotest@legolas
+2015-07-08 01:07:01.431 [info] <0.7.0> Application mimetypes started on node chicagotest@legolas
+2015-07-08 01:07:01.456 [notice] <0.62.0>@lager_app:132 Deprecated lager_file_backend config detected, please consider updating it
+2015-07-08 01:07:01.485 [info] <0.94.0> Starting Boss in development mode....
+
+2015-07-08 01:07:01.557 [info] <0.94.0> Starting master services on chicagotest@legolas
+
+2015-07-08 01:07:01.575 [info] <0.7.0> Application tinymq started on node chicagotest@legolas
+2015-07-08 01:07:01.626 [info] <0.94.0> SSL:[]
+
+2015-07-08 01:07:01.631 [info] <0.94.0> Starting cowboy... on chicagotest@legolas
+
+2015-07-08 01:07:01.636 [info] <0.7.0> Application cowlib started on node chicagotest@legolas
+2015-07-08 01:07:01.641 [info] <0.7.0> Application ranch started on node chicagotest@legolas
+2015-07-08 01:07:01.656 [info] <0.7.0> Application cowboy started on node chicagotest@legolas
+2015-07-08 01:07:01.656 [info] <0.94.0> Starting http listener... on 0.0.0.0:8001 
+
+2015-07-08 01:07:01.731 [info] <0.94.0>@boss_load:load_all_modules:57 Loading application chicagotest
+2015-07-08 01:07:01.762 [info] <0.94.0>@boss_load:compile_view_dir_erlydtl:308 Compile Modules "src/view/lib/tag_html"  chicagotest_view_lib_tags
+2015-07-08 01:08:58.079 [info] <0.7.0> Application lager started on node chicagotest@legolas
+2015-07-08 01:08:58.086 [info] <0.7.0> Application crypto started on node chicagotest@legolas
+2015-07-08 01:08:58.120 [info] <0.7.0> Application mimetypes started on node chicagotest@legolas
+2015-07-08 01:08:58.158 [info] <0.94.0> Starting Boss in development mode....
+
+2015-07-08 01:08:58.207 [info] <0.94.0> Starting master services on chicagotest@legolas
+
+2015-07-08 01:08:58.239 [notice] <0.61.0>@lager_app:132 Deprecated lager_file_backend config detected, please consider updating it
+2015-07-08 01:08:58.242 [info] <0.7.0> Application tinymq started on node chicagotest@legolas
+2015-07-08 01:08:58.244 [error] <0.69.0>@lager_handler_watcher:98 Lager fatally failed to install handler lager_console_backend into lager_event, NOT retrying: old_shell
+2015-07-08 01:08:58.244 [warning] <0.63.0>@lager_console_backend:61 Lager's console backend is incompatible with the 'old' shell, not enabling it
+2015-07-08 01:08:58.282 [info] <0.94.0> SSL:[]
+
+2015-07-08 01:08:58.285 [info] <0.94.0> Starting cowboy... on chicagotest@legolas
+
+2015-07-08 01:08:58.289 [info] <0.7.0> Application cowlib started on node chicagotest@legolas
+2015-07-08 01:08:58.305 [info] <0.7.0> Application ranch started on node chicagotest@legolas
+2015-07-08 01:08:58.315 [info] <0.7.0> Application cowboy started on node chicagotest@legolas
+2015-07-08 01:08:58.315 [info] <0.94.0> Starting http listener... on 0.0.0.0:8001 
+
+2015-07-08 01:08:58.383 [info] <0.94.0>@boss_load:load_all_modules:57 Loading application chicagotest
+2015-07-08 01:08:58.397 [info] <0.94.0>@boss_load:compile_view_dir_erlydtl:308 Compile Modules "src/view/lib/tag_html"  chicagotest_view_lib_tags
+2015-07-08 01:11:12.784 [info] <0.7.0> Application lager started on node chicagotest@legolas
+2015-07-08 01:11:12.791 [info] <0.7.0> Application crypto started on node chicagotest@legolas
+2015-07-08 01:11:12.825 [info] <0.7.0> Application mimetypes started on node chicagotest@legolas
+2015-07-08 01:11:12.864 [info] <0.94.0> Starting Boss in development mode....
+
+2015-07-08 01:11:12.912 [info] <0.94.0> Starting master services on chicagotest@legolas
+
+2015-07-08 01:11:12.945 [notice] <0.61.0>@lager_app:132 Deprecated lager_file_backend config detected, please consider updating it
+2015-07-08 01:11:12.946 [info] <0.7.0> Application tinymq started on node chicagotest@legolas
+2015-07-08 01:11:12.950 [error] <0.69.0>@lager_handler_watcher:98 Lager fatally failed to install handler lager_console_backend into lager_event, NOT retrying: old_shell
+2015-07-08 01:11:12.950 [warning] <0.63.0>@lager_console_backend:61 Lager's console backend is incompatible with the 'old' shell, not enabling it
+2015-07-08 01:11:12.985 [info] <0.94.0> SSL:[]
+
+2015-07-08 01:11:12.988 [info] <0.94.0> Starting cowboy... on chicagotest@legolas
+
+2015-07-08 01:11:12.991 [info] <0.7.0> Application cowlib started on node chicagotest@legolas
+2015-07-08 01:11:13.008 [info] <0.7.0> Application ranch started on node chicagotest@legolas
+2015-07-08 01:11:13.018 [info] <0.7.0> Application cowboy started on node chicagotest@legolas
+2015-07-08 01:11:13.018 [info] <0.94.0> Starting http listener... on 0.0.0.0:8001 
+
+2015-07-08 01:11:13.087 [info] <0.94.0>@boss_load:load_all_modules:57 Loading application chicagotest
+2015-07-08 01:11:13.102 [info] <0.94.0>@boss_load:compile_view_dir_erlydtl:308 Compile Modules "src/view/lib/tag_html"  chicagotest_view_lib_tags

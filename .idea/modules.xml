@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deps/aleppo/aleppo.iml" filepath="$PROJECT_DIR$/deps/aleppo/aleppo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/boss/boss.iml" filepath="$PROJECT_DIR$/deps/boss/boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/boss_db/boss_db.iml" filepath="$PROJECT_DIR$/deps/boss_db/boss_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/bson/bson.iml" filepath="$PROJECT_DIR$/deps/bson/bson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chicagotest.iml" filepath="$PROJECT_DIR$/chicagotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/cowboy/cowboy.iml" filepath="$PROJECT_DIR$/deps/cowboy/cowboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/cowlib/cowlib.iml" filepath="$PROJECT_DIR$/deps/cowlib/cowlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/ddb/ddb.iml" filepath="$PROJECT_DIR$/deps/ddb/ddb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/dynamic_compile/dynamic_compile.iml" filepath="$PROJECT_DIR$/deps/dynamic_compile/dynamic_compile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/epgsql/epgsql.iml" filepath="$PROJECT_DIR$/deps/epgsql/epgsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/erlando/erlando.iml" filepath="$PROJECT_DIR$/deps/erlando/erlando.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/erlmc/erlmc.iml" filepath="$PROJECT_DIR$/deps/erlmc/erlmc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/erlydtl/erlydtl.iml" filepath="$PROJECT_DIR$/deps/erlydtl/erlydtl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/ets_cache/ets_cache.iml" filepath="$PROJECT_DIR$/deps/ets_cache/ets_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/eunit_formatters/eunit_formatters.iml" filepath="$PROJECT_DIR$/deps/eunit_formatters/eunit_formatters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/gen_server2/gen_server2.iml" filepath="$PROJECT_DIR$/deps/gen_server2/gen_server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/gen_smtp/gen_smtp.iml" filepath="$PROJECT_DIR$/deps/gen_smtp/gen_smtp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/goldrush/goldrush.iml" filepath="$PROJECT_DIR$/deps/goldrush/goldrush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/ibrowse/ibrowse.iml" filepath="$PROJECT_DIR$/deps/ibrowse/ibrowse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/iso8601/iso8601.iml" filepath="$PROJECT_DIR$/deps/iso8601/iso8601.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/jaderl/jaderl.iml" filepath="$PROJECT_DIR$/deps/jaderl/jaderl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/jsx/jsx.iml" filepath="$PROJECT_DIR$/deps/jsx/jsx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/lager/lager.iml" filepath="$PROJECT_DIR$/deps/lager/lager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/lfe/lfe.iml" filepath="$PROJECT_DIR$/deps/lfe/lfe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/meck/meck.iml" filepath="$PROJECT_DIR$/deps/meck/meck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/medici/medici.iml" filepath="$PROJECT_DIR$/deps/medici/medici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/merl/merl.iml" filepath="$PROJECT_DIR$/deps/merl/merl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mimetypes/mimetypes.iml" filepath="$PROJECT_DIR$/deps/mimetypes/mimetypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochiweb/support/templates/mochiwebapp_skel/mochiapp.iml" filepath="$PROJECT_DIR$/deps/mochiweb/support/templates/mochiwebapp_skel/mochiapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochicow/mochicow.iml" filepath="$PROJECT_DIR$/deps/mochicow/mochicow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mochiweb/mochiweb.iml" filepath="$PROJECT_DIR$/deps/mochiweb/mochiweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mongodb/mongodb.iml" filepath="$PROJECT_DIR$/deps/mongodb/mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mysql/mysql.iml" filepath="$PROJECT_DIR$/deps/mysql/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/pmod_transform/pmod_transform.iml" filepath="$PROJECT_DIR$/deps/pmod_transform/pmod_transform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/poolboy/poolboy.iml" filepath="$PROJECT_DIR$/deps/poolboy/poolboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/boss/skel/project.iml" filepath="$PROJECT_DIR$/deps/boss/skel/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/proper/proper.iml" filepath="$PROJECT_DIR$/deps/proper/proper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/protobuffs/protobuffs.iml" filepath="$PROJECT_DIR$/deps/protobuffs/protobuffs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/ranch/ranch.iml" filepath="$PROJECT_DIR$/deps/ranch/ranch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/redo/redo.iml" filepath="$PROJECT_DIR$/deps/redo/redo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riak_pb/riak_pb.iml" filepath="$PROJECT_DIR$/deps/riak_pb/riak_pb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/riakc/riakc.iml" filepath="$PROJECT_DIR$/deps/riakc/riakc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/simple_bridge/simple_bridge.iml" filepath="$PROJECT_DIR$/deps/simple_bridge/simple_bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/tiny_pq/tiny_pq.iml" filepath="$PROJECT_DIR$/deps/tiny_pq/tiny_pq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/tinymq/tinymq.iml" filepath="$PROJECT_DIR$/deps/tinymq/tinymq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/uuid/uuid.iml" filepath="$PROJECT_DIR$/deps/uuid/uuid.iml" />
+    </modules>
+  </component>
+</project>
